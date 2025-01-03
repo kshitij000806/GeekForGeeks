@@ -1,24 +1,5 @@
 # *01. Non-Repeating Character*
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1)
-
-<div align="center">
-  <h2>✨ LeetCode Problem of the Day (POTD) Continued ✨</h2>
-</div>
-
-- As part of the **LeetCode Problem of the Day (POTD)** series, here is the solution for **December 1, 2024**. 🎯  
-- My latest solution is now live:  
-  **[1346. Check If N and Its Double Exist](https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/1346.Check%20If%20N%20and%20Its%20Double%20Exist.md)**  
-
-<div align="center">
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/1346.Check%20If%20N%20and%20Its%20Double%20Exist.md">
-    <img src="https://img.shields.io/badge/LeetCode%20POTD-Solution%20Live-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode POTD Solution" />
-  </a>
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/1346.Check%20If%20N%20and%20Its%20Double%20Exist.md">
-  <img src="https://img.shields.io/badge/Solutions-Up%20to%20Date-blue?style=for-the-badge" alt="Solutions Up-to-Date" />
-</div>
-
-<br/>
 
 ## Problem Description
 

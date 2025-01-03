@@ -189,12 +189,4 @@ For discussions, questions, or doubts related to this solution, feel free to con
 
 ⭐ If you find this helpful, please give this repository a star! ⭐
 
----
 
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>

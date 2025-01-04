@@ -1,24 +1,6 @@
 # *02. Search Pattern (KMP Algorithm)*
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
 
-<div align="center">
-  <h2>✨ LeetCode Problem of the Day (POTD) Continued ✨</h2>
-</div>
-
-- As part of the **LeetCode Problem of the Day (POTD)** series, here is the solution for **December 2, 2024**. 🎯  
-- My latest solution is now live:  
-  **[1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/1455.Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md)**  
-
-<div align="center">
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/1455.Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md">
-    <img src="https://img.shields.io/badge/LeetCode%20POTD-Solution%20Live-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode POTD Solution" />
-  </a>
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/1455.Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md">
-  <img src="https://img.shields.io/badge/Solutions-Up%20to%20Date-blue?style=for-the-badge" alt="Solutions Up-to-Date" />
-</div>
-
-<br/>
 
 
 ## Problem Description
@@ -320,18 +302,4 @@ class Solution:
 ```
 
 
-## Contribution and Support
 
-For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/het-patel-8b110525a/). Let’s make this learning journey more collaborative!
-
-⭐ If you find this helpful, please give this repository a star! ⭐
-
----
-
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>

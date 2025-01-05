@@ -1,25 +1,6 @@
 # *3. Min Chars to Add for Palindrome*
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1)  
 
-
-
-<div align="center">
-  <h2>✨ LeetCode Problem of the Day (POTD) Continued ✨</h2>
-</div>
-
-- Continuing with **LeetCode Problem of the Day (POTD)** solutions! 🎯  
-- Here's my latest addition:  
-  **[2109. Adding Spaces to a String](https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/2109.Adding%20Spaces%20to%20a%20String.md)**  
-
-<div align="center">
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/2109.Adding%20Spaces%20to%20a%20String.md">
-    <img src="https://img.shields.io/badge/LeetCode%20POTD-Solution%20Live-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode POTD Solution" />
-  </a>
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/2109.Adding%20Spaces%20to%20a%20String.md">
-    <img src="https://img.shields.io/badge/Solutions-Up%20to%20Date-blue?style=for-the-badge" alt="Solutions Up-to-Date" />
-  </a>
-</div>
 
 
 
@@ -218,16 +199,3 @@ class Solution:
 
 ## Contribution and Support
 
-For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/het-patel-8b110525a/). Let’s make this learning journey more collaborative!
-
-⭐ If you find this helpful, please give this repository a star! ⭐
-
----
-
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>

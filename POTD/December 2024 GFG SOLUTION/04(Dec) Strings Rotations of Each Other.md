@@ -1,24 +1,6 @@
 # *4. Strings Rotations of Each Other*
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1)
 
-<div align="center">
-  <h2>✨ LeetCode Problem of the Day (POTD) Continues ✨</h2>
-</div>
-
-- As part of my journey to solve **LeetCode Problem of the Day (POTD)** solutions, here’s my solution for December 4:  
-  **[2825. Make String a Subsequence Using Cyclic Increments](https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/2825.Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments.md)**  
-
-<div align="center">
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/2825.Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments.md">
-    <img src="https://img.shields.io/badge/LeetCode%20POTD-Solution%20Live-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode POTD Solution" />
-  </a>
-  <a href="https://github.com/Hunterdii/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/2825.Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments.md">
-    <img src="https://img.shields.io/badge/Solutions-Up%20to%20Date-blue?style=for-the-badge" alt="Solutions Up-to-Date" />
-  </a>
-</div>
-
-<br/>
 
 ## Problem Description
 
@@ -187,10 +169,3 @@ For discussions, questions, or doubts related to this solution, feel free to con
 
 ---
 
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>

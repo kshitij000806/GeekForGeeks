@@ -1,25 +1,5 @@
 # *15. Peak Element*
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/problems/peak-element/1)
-
-<!--<div align="center">
-  <h2>✨ LeetCode Problem of the Day (POTD) Started ✨</h2>
-</div>
-
-- Continuing with the **LeetCode Problem of the Day (POTD)** series, here’s today’s solution:  
-  **Peak Element**  
-
-<div align="center">
-  <a href="https://github.com/Starshadow0707/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/Peak%20Element.md">
-    <img src="https://img.shields.io/badge/LeetCode%20POTD-Solution%20Live-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode POTD Solution" />
-  </a>
-  <a href="https://github.com/Starshadow0707/Leetcode-POTD/blob/main/December%202024%20Leetcode%20Solution/Peak%20Element.md">
-    <img src="https://img.shields.io/badge/Solutions-Up%20to%20Date-blue?style=for-the-badge" alt="Solutions Up-to-Date" />
-  </a>
-</div>
-
-<br/>
--->
 
 
 ## **Problem Description**
@@ -168,18 +148,3 @@ class Solution:
 
 
 
-## Contribution and Support
-
-For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/het-patel-8b110525a/). Let’s make this learning journey more collaborative!
-
-⭐ If you find this helpful, please give this repository a star! ⭐
-
----
-
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>

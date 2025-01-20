@@ -1,6 +1,5 @@
 # *20. Spirally Traversing a Matrix*
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
 
 ## Problem Description
 
@@ -188,18 +187,3 @@ class Solution:
         return result
 ```
 
-## Contribution and Support
-
-For discussions, questions, or doubts related to this solution, feel free to connect on LinkedIn: [Any Questions](https://www.linkedin.com/in/het-patel-8b110525a/). Let’s make this learning journey more collaborative!
-
-⭐ If you find this helpful, please give this repository a star! ⭐
-
----
-
-<div align="center">
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>

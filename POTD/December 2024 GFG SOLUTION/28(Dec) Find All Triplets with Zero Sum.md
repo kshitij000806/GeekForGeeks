@@ -1,6 +1,5 @@
 # *28. Find All Triplets with Zero Sum*
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/problems/find-all-triplets-with-zero-sum/1)
 
 ## Problem Description
 
@@ -131,18 +130,4 @@ class Solution:
 
 
 
-## Contribution and Support
 
-For discussions, questions, or doubts related to this solution, please visit my LinkedIn: [Any Questions](https://www.linkedin.com/in/het-patel-8b110525a/). Thank you for your input; together, we strive to create a space where learning is a collaborative endeavor.
-
-⭐ Star this repository if you find it helpful or intriguing! ⭐
-
----
-
-<div align=center>
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />  
-</p>

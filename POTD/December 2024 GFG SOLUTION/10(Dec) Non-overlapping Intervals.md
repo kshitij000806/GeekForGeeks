@@ -160,7 +160,4 @@ class Solution:
 ```
 
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
-</p>
 

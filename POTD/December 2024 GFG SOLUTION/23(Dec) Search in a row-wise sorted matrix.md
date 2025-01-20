@@ -1,6 +1,5 @@
 # *23. Search in a Row-Wise Sorted Matrix*
 
-The problem can be found at the following link: [Question Link](https://www.geeksforgeeks.org/problems/search-in-a-row-wise-sorted-matrix/1)
 
 
 
@@ -129,19 +128,3 @@ class Solution:
 
 
 
-
-## Contribution and Support
-
-For discussions, questions, or doubts related to this solution, please visit my LinkedIn:- [Any Questions](https://www.linkedin.com/in/het-patel-8b110525a/). Thank you for your input; together, we strive to create a space where learning is a collaborative endeavor.
-
-⭐ Star this repository if you find it helpful or intriguing! ⭐
-
----
-
-<div align=center>
-  <h3><b>📍Visitor Count</b></h3>
-</div>
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />  
-</p>

@@ -194,8 +194,3 @@ class Solution:
 
         return n - lps[-1]
 ```
-
-
-
-## Contribution and Support
-

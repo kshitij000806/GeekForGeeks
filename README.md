@@ -1,2 +1,2 @@
 # GeekForGeeks
-Daily solution 
+Daily solutions

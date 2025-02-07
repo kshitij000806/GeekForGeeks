@@ -1,2 +1,3 @@
 # GeekForGeeks
 Daily solutions
+POTD

@@ -1,3 +1,3 @@
 # GeekForGeeks
-Daily solutions
+Daily solutions Available Here
 POTD
